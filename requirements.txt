@@ -1,0 +1,10 @@
+Flask==3.0.1
+tensorflow==2.15.0
+tensorflow-macos==2.15.0; sys_platform == 'darwin'
+tensorflow-metal==1.1.0; sys_platform == 'darwin'
+scikit-learn==1.4.0
+matplotlib==3.8.2
+pillow==10.2.0
+numpy==1.26.3
+setuptools==68.2.0
+werkzeug==3.0.1
